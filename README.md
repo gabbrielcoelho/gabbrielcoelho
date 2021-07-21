@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-<img src="py.gif" alt="pyGIF" width="300" height="300"/>
+<img src="py.gif" alt="pyGIF" width="200" height="200"/>
 
