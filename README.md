@@ -10,5 +10,5 @@ My goal here is to show you some small personal projects and a little of what I'
 
 <img src="py.gif" alt="pyGIF" width="200" height="200"/>
 
-*P.S. I am a loyal fan of the Python language (but it's a secret, ok?).*
+*P.S. I am a loyal fan of the Python language.*
 
