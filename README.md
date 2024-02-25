@@ -1,4 +1,4 @@
-## Welcome to my GitHub, guys!
+<img src="welcome.png" alt="welcome-msg">
 
 My name is Gabriel Coelho, I'm 20 years old and I'm an Aerospace Engineering student at <a href="https://ufmg.br/a-universidade">UFMG</a>, where I'm part of <a href="https://www.instagram.com/czarspace/">Czar Space</a>, a research team focused on the development of CubeSats. 
 
