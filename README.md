@@ -20,8 +20,9 @@ Programming languages:
 
 ![C](https://img.shields.io/badge/C-00599C)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C)
+![MATLAB](https://img.shields.io/badge/MATLAB-E86E05)
 ![Python](https://img.shields.io/badge/Python-3776AB)
 ![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91)
-![MATLAB](https://img.shields.io/badge/MATLAB-E86E05)
+
 
 
