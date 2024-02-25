@@ -21,6 +21,7 @@ Programming languages:
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?logo=visual-basic&logoColor=white&style=for-the-badge)
 
 
 
