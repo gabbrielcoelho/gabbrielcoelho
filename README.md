@@ -4,11 +4,16 @@ C:/Users/gabbrielcoelho> Welcome! I'm Gabriel!
 
 <img src="hadouken-pixelated.gif" alt="hadouken"/>
 
-My name is Gabriel Coelho, I'm 20 years old and I'm an Aerospace Engineering student at <a href="https://ufmg.br/a-universidade">UFMG</a>, where I'm part of <a href="https://www.instagram.com/czarspace/">Czar Space</a>, a research team focused on the development of CubeSats. 
+## 🧐 About me
 
-At the same time, I also love working with software development (whether it's embedded, web or related to data analysis).
+- ℹ️ My name is Gabriel Coelho and I'm 22
+- ✈️ I'm an Aerospace Engineering student at <a href="https://ufmg.br/a-universidade">UFMG</a>
+- 🖥️ I'm also a Computer Technician graduated from <a href="https://portal.ifsuldeminas.edu.br/index.php">IFSULDEMINAS</a>
+- 👨‍💻 I really like programming
+- 🕹️ When I'm not dealing with the above things, I'm playing computer games!
 
-My goal here is to show you some small personal projects and a little of what I've learned so far.
+## Programming
+
 
 
 
