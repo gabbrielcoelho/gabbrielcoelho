@@ -12,8 +12,9 @@ C:/Users/gabbrielcoelho> Welcome! I'm Gabriel!
 - 👨‍💻 I really like programming
 - 🕹️ When I'm not dealing with the above things, I'm playing computer games!
 
-## Programming
+## 👨‍💻 About what I program
 
+# I enjoy developing engineering software and solving real-world problems
 
 
 
